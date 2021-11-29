@@ -1,7 +1,9 @@
 # SHA-365
 [our specifications](https://docs.google.com/document/d/1htsIUW1AiagQT3W35X_A3B6HL4_4zS1a8a8oWTU7og8/edit#heading=h.lgowqagkisla)
-[devpost](https://devpost.com/software/sidechain-hackathon-activities-356-sha365)
 
+[devpost link](https://devpost.com/software/sidechain-hackathon-activities-356-sha365)
+
+[the script for the video](https://docs.google.com/document/d/1RC5u1Vcx47oigiNUMLDc4cKQpS-qPH3qCqTe81cy1JA/edit?usp=sharing)
 
 ## Working pages for SHA-365
 1. Hexhub2 collection of links (step by step) https://github.com/tippi-fifestarr/hexhub2/tree/master
